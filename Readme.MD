@@ -17,4 +17,3 @@ Also, we need to install some NLTK corpora using following command:
 ```python -m textblob.download_corpora```
 
 (Corpora is nothing but a large and structured set of texts.)
-
