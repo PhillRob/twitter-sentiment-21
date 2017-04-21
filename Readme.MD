@@ -1,6 +1,6 @@
 # Twitter Sentiment Endpoint
 This 21 endpoint is based on the article ['Twitter Sentiment Analysis using Python'](http://www.geeksforgeeks.org/twitter-sentiment-analysis-using-python/) and can currently be viewed on the [21 marketplace](https://21.co/mkt/). It obtains a given number of tweets via the define API credentials and runs a polarity analysis. 
-You can test `21 buy "phillr/twitter-sentiment/?sst=bitcoin&cct=21"` where `sst`is the search string and `cct`the maximum number of tweets searched.
+You can test `21 buy "phillr/twitter-sentiment/?sst=bitcoin&cct=21"` where `sst`is the search string and `cct`the maximum number of tweets to search.
 The output returns the relative frequency of tweet polarity:
  
 ```
